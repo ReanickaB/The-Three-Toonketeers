@@ -7,7 +7,7 @@ Tom &amp; Jerry theme Square speakers that you are able to carry everywhere and 
 |--------------------------|-------|-------|------|
 | **PAM8403 amplifier module** | £1.21 |<img width="258" height="219" alt="image" src="https://github.com/user-attachments/assets/ace86a42-8da4-4614-b626-2867a01609be" />
   |3/5/8PCS PAM8403 Audio 2x3W Mini Digital Power Amplifier Board Module for Class D Stereo Audio Amplifier Module 5V Power - AliExpress |
-| **30mm speaker**         | £0.52 |<img width="294" height="264" alt="image" src="https://github.com/user-attachments/assets/a63263fb-f44a-44dc-a249-b814c3fd18eb" />
+| **30mm speaker** | £0.52 |<img width="294" height="264" alt="image" src="https://github.com/user-attachments/assets/a63263fb-f44a-44dc-a249-b814c3fd18eb" />
  | 1PCS 5V 1A Micro USB 18650 type-c Lithium Battery Charging Board Charger Module+Protection Dual Functions TP4056 18650 - AliExpress |
 
 ##  Power System
