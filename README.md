@@ -5,7 +5,7 @@ Tom &amp; Jerry theme Square speakers that you are able to carry everywhere and 
 
 | Name | Price | Photo | Link |
 |------|--------|--------|-------|
-| PAM8403 amplifier module | £1.21 | <img src="images/⚡Power Y.com_collections_popular-products_products_3-7v-500mah-li-po-rechargeable-battery-502030__#lipobattery #rechargeablebattery #electronics #diyprojects #iot #wearabletech #techinnovation #powerup #embeddedsystems.png" width="60"> | [AliExpress link](#) |
+| PAM8403 amplifier module | £1.21 | <img src="images/PAM8403_amplifier_module.png" width="60"> | [AliExpress link](#) |
 | 30mm speaker | £0.52 | <img src="images/speaker.png" width="60"> | [AliExpress link](#) |
 
 ##  Power System
